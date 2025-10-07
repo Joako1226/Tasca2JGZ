@@ -1,4 +1,27 @@
-*{
+* {
     margin: 0;
     padding: 0;
+}
+
+#titol {
+    text-align: center;
+    margin: 20px 0;
+}
+
+#cos {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+#peu {
+    text-align: center;
+    margin-top: 30px;
+}
+
+.article {
+    margin: 10px;
+}
+
+.article img {
+    width: 200px;
 }
